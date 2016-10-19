@@ -1,0 +1,9 @@
+ftp:education   karoro111...
+mysql  education karoro111...
+
+
+Database username: education
+Database userpassword: karoro111...
+Database Name: education
+FTP account name: education
+FTP account password: karoro111.

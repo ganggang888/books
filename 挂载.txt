@@ -1,0 +1,4 @@
+mount -t cifs -o username='ganggang',password='boonet2012' //192.168.1.48/yii /home/wwwroot/matt
+
+mount -t cifs -o username="Administrators",password="123456a" //192.168.1.48/yii /home/wwwroot/matt
+//192.168.1.48/yii /home/wwwroot/matt cifs defaults,username=Administrators,password=123456a 0 2
